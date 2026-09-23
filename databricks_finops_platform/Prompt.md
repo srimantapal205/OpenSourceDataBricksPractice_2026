@@ -1151,4 +1151,4 @@ The final platform should allow an executive or platform administrator to open t
 11. Which workspaces are healthy?
 12. Can I drill from total cost down to the underlying usage record?
 
-Build the solution as a **production-grade centralized Databricks FinOps + Audit Monitoring Platform**, not merely as a reporting dashboard.
+The solution as a **production-grade centralized Databricks FinOps + Audit Monitoring Platform**, not merely as a reporting dashboard.
