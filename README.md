@@ -10,7 +10,7 @@ A comprehensive, hands-on reference covering Databricks features with runnable c
 1. [Spark DataFrame Basics](#1-spark-dataframe-basics)
 2. [Delta Lake Operations](#2-delta-lake-operations)
 3. [SQL in Databricks](#3-sql-in-databricks)
-4. [Auto Loader](#4-auto-loader)
+4. **[Auto Loader](#4-auto-loader)**
 5. [Structured Streaming](#5-structured-streaming)
 6. [Window Functions](#6-window-functions)
 7. [UDFs (User-Defined Functions)](#7-udfs-user-defined-functions)
